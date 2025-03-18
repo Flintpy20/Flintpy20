@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Flintpy!
 
-<!--
-**Flintpy20/Flintpy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Sobre mim**  
+Sou um entusiasta da tecnologia e apaixonado por resolver problemas através de código. Sempre em busca de aprender e compartilhar conhecimento.
 
-Here are some ideas to get you started:
+📂 **Meus principais interesses**  
+- 🎮 Desenvolvimento de Jogos
+- 💻 Desenvolvimento de Software para Desktop
+- 🧠 Inteligência Artificial e Machine Learning  
+- 🔧 Automação de processos  
+- 📱 Aplicativos Mobile  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Habilidades Técnicas**  
+- Linguagens: Java, Python
+
+
+🎯 **Meus objetivos atuais**  
+Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento Backend e Data Science alé de continuar estudando.
+
+📫 **Como me encontrar**  
+
+-🧭 linkedin.com/in/léoo-silva-7245b1346
+
+---
+
+💡 _"A tecnologia tem o poder de transformar o mundo, e eu quero fazer parte dessa transformação."_  
